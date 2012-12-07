@@ -1,0 +1,9 @@
+﻿<viewdata model="WebApplication1.Features.Home.HomeModel" />
+<html>
+<head>
+  # this.Asset("foo.js");
+</head>
+<body>
+<h1>Hello World</h1>
+</body>
+</html>
