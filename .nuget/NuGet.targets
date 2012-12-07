@@ -18,7 +18,7 @@
     
     <ItemGroup Condition=" '$(PackageSources)' == '' ">
       <PackageSource Include="https://nuget.org/api/v2/" />
-      <PackageSource Include="project.org/guestAuth/app/nuget/v1/FeedService.svc/" />
+      <PackageSource Include="http://build.fubu-project.org/guestAuth/app/nuget/v1/FeedService.svc/" />
     </ItemGroup>
 
     <PropertyGroup Condition=" '$(OS)' == 'Windows_NT'">
